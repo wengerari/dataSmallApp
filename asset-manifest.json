@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/dataSmallApp/static/css/main.69e6c3a0.chunk.css",
-    "main.js": "/dataSmallApp/static/js/main.4b00dea2.chunk.js",
-    "main.js.map": "/dataSmallApp/static/js/main.4b00dea2.chunk.js.map",
+    "main.js": "/dataSmallApp/static/js/main.d435b1da.chunk.js",
+    "main.js.map": "/dataSmallApp/static/js/main.d435b1da.chunk.js.map",
     "runtime-main.js": "/dataSmallApp/static/js/runtime-main.ce2e010d.js",
     "runtime-main.js.map": "/dataSmallApp/static/js/runtime-main.ce2e010d.js.map",
     "static/js/2.90b521fd.chunk.js": "/dataSmallApp/static/js/2.90b521fd.chunk.js",
     "static/js/2.90b521fd.chunk.js.map": "/dataSmallApp/static/js/2.90b521fd.chunk.js.map",
     "index.html": "/dataSmallApp/index.html",
-    "precache-manifest.ea2fe4833203b26a42ad0dcab042ce9d.js": "/dataSmallApp/precache-manifest.ea2fe4833203b26a42ad0dcab042ce9d.js",
+    "precache-manifest.92ec8e6fa99902586390dfe4e3f12d7a.js": "/dataSmallApp/precache-manifest.92ec8e6fa99902586390dfe4e3f12d7a.js",
     "service-worker.js": "/dataSmallApp/service-worker.js",
     "static/css/main.69e6c3a0.chunk.css.map": "/dataSmallApp/static/css/main.69e6c3a0.chunk.css.map",
     "static/js/2.90b521fd.chunk.js.LICENSE.txt": "/dataSmallApp/static/js/2.90b521fd.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ce2e010d.js",
     "static/js/2.90b521fd.chunk.js",
     "static/css/main.69e6c3a0.chunk.css",
-    "static/js/main.4b00dea2.chunk.js"
+    "static/js/main.d435b1da.chunk.js"
   ]
 }
