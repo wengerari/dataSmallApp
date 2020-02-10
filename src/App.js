@@ -12,22 +12,21 @@ import AdditionalData from "./components/additional-data/additional-data.compone
 
 import Header from "./components/header/header.component";
 
+import {Data1} from "./data";
+
 class App extends React.Component{
   constructor(){
     super();
     this.state ={
-        data: [],
-        copedData: [],
+        data: Data1,
+        copedData: Data1,
         sortToogle: {boolean: true, currentItem: ""},
         clickedItem: {address: ""},
         previousItem: ""
     };
   }
 
-  componentDidMount(){
-    fetch("http://www.filltext.com/?rows=32&id=%7Bnumber%7C1000%7D&firstName=%7BfirstName%7D&lastName=%7BlastName%7D&email=%7Bemail%7D&phone=%7Bphone%7C(xxx)xxx-xx-xx%7D&address=%7BaddressObject%7D&description=%7Blorem%7C32%7D")
-    .then(response => response.json()).then(data => this.setState({data: data,copedData: data}));
-  }
+ 
 
 
 
