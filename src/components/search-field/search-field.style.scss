@@ -1,0 +1,14 @@
+.search-field{
+    display: flex;
+    justify-content: space-between;
+
+    & input{
+        width: 100px;
+        -webkit-appearance: none;
+        border: 1px solid #4020b0;
+        outline: none;
+        padding: 5px;
+        
+    }
+
+}
